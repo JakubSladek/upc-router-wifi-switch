@@ -3,7 +3,7 @@
 
 ## Requirements
 - [Python](https://www.python.org/downloads/)
-- [Mozilla Firefox](https://www.mozilla.org/)
+- [Mozila Firefox](https://www.mozilla.org/)
 - [Gecko driver](https://github.com/mozilla/geckodriver/releases)
 
 ## How to start
