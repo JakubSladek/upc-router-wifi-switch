@@ -7,7 +7,7 @@
 - [Gecko driver](https://github.com/mozilla/geckodriver/releases)
 
 ## How to start
-- Be sure you've passed Installation and Configuration !!
+- Be sure you've passed Installation and Configuration !!!
     - Win: double click to start.bat
     - Any other OS: open terminal in ./switch folder and type "python main.py"
 
